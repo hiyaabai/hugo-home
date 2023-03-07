@@ -9,7 +9,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        👋 Hi, there! I'm **Abai**, a programmer in China.
+        👋 Hi, there! I'm **Abai**, a programmer in China. <a href="https://beian.miit.gov.cn/" target="_blank">鲁ICP备18056278号-7</a>
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
